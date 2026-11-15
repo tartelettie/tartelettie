@@ -2,7 +2,7 @@
 
 <p>
   <a href="mailto:huisukim9905@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/Tarte12"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/tartelettie"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
   <a href="https://velog.io/@emprimula/posts"><img src="https://img.shields.io/badge/Blog-20C997?style=flat-square&logo=velog&logoColor=white" /></a>
 </p>
 
@@ -10,7 +10,7 @@
 ## Pacman eats my daily GiHub Contributions
 
 <img
-  src="https://raw.githubusercontent.com/Tarte12/Tarte12/output/pacman-contribution-graph-dark.svg?v=1"
+  src="https://raw.githubusercontent.com/tartelettie/tartelettie/output/pacman-contribution-graph-dark.svg?v=1"
   alt="Snake animation"
 />
 ---
@@ -78,7 +78,7 @@
 
 ---
 
-### [CodingTestStudy](https://github.com/Tarte12/CodingTestStudy)
+### [CodingTestStudy](https://github.com/tartelettie/CodingTestStudy)
 
 `Algorithm` `Problem Solving` `Java`
 
@@ -129,7 +129,7 @@
 ## Stats & Activity
 
 <div align="center">
-  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Tarte12&utm_content=farm">
-    <img src="https://render.gitanimals.org/farms/Tarte12" width="600" height="300" />
+  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=tartelettie&utm_content=farm">
+    <img src="https://render.gitanimals.org/farms/tartelettie" width="600" height="300" />
   </a>
 </div>
