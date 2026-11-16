@@ -78,7 +78,7 @@
 
 ---
 
-### [CodingTestStudy](https://github.com/tartelettie/CodingTestStudy)
+### [CodingTestStudy](https://github.com/tartelettie/PS)
 
 `Algorithm` `Problem Solving` `Java`
 
